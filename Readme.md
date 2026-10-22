@@ -1,1 +1,2 @@
-Console based Applications done using core java
+# ConsoleBased-Applications
+Console based application designed using core java
